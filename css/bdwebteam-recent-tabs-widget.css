@@ -4,7 +4,7 @@
     * Description: Adds a widget that shows the most recent posts of your site with excerpt, featured image, date by sorting & ordering feature
     * Author:Md. Mahabub Hasan Manik
     * Author URI: http://bdwebteam.com/
-    * Version: 1.0.1
+    * Version: 1.0.2
     * Text Domain: bdwebteam
     * Domain Path: /languages
     * License: MIT License
@@ -23,7 +23,7 @@
     .tabs-data .post-pull-left{float:left;margin-right:20px;}
     .tabs-post-info p{padding:10px 0;line-height:22px;}
     .bdwebteam-tabs .tabs-list{font:12px "KlavikaMedium ",Arial,sans-serif;font-size:12px;margin-bottom:0px;text-transform:uppercase;background:#323232;}
-    .bdwebteam-tabs .tabs-list a{color:#efefef;display:block;padding:10px 19px;}
+    .bdwebteam-tabs .tabs-list a{color:#efefef;display:block;padding:10px 14px;}
     .posts-list li >a{position:relative;transform:translate3d(0px,0px,0px);}
     .posts-list .content{border-bottom:1px solid #323232;line-height:1;}
     .posts-list li:first-child{padding-top:0;}

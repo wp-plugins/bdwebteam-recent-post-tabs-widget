@@ -5,7 +5,7 @@
     * Description: Adds a widget that shows the most recent posts of your site with excerpt, featured image, date by sorting & ordering feature
     * Author:Md. Mahabub Hasan Manik
     * Author URI: http://bdwebteam.com/
-    * Version: 1.0.1
+    * Version: 1.0.2
     * Text Domain: bdwebteam
     * Domain Path: /languages
     * License: MIT License
@@ -44,7 +44,7 @@ class bdwebteam_recent_post_tabs_Widget extends WP_Widget
 {
        
     //	@var string (The plugin version)		
-	var $version = '1.0.1';
+	var $version = '1.0.2';
 	//	@var string $localizationDomain (Domain used for localization)
 	var $localizationDomain = 'bdwebteam';
 	//	@var string $pluginurl (The url to this plugin)

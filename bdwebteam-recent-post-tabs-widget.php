@@ -3,7 +3,7 @@
     * Plugin Name: bdwebteam recent post tabs widget
     * Plugin URI: http://plugin.bdwebteam.com/bdwebteam-recent-tabs-widget
     * Description: Adds a widget that shows the most recent posts of your site with excerpt, featured image, date by sorting & ordering feature
-    * Author:Md. Mahabub Hasan Manik
+    * Author: Mahabub Hasan
     * Author URI: http://bdwebteam.com/
     * Version: 1.0.2
     * Text Domain: bdwebteam
@@ -15,10 +15,10 @@
 /**
    *
    * @package   bdwebteam-recent-post-tabs-widget
-   * @author    Md. Mahabub Masan Manik <m.manik01@gmail.com>
+   * @author    ahabub Masan
    * @license   MIT License
    * @link      http://plugin.bdwebteam.com/bdwebteam-recent-tabs-widget
-   * @copyright 2015 Mahabub Hasan
+   * @copyright 2015
    * 
  */
    if ( ! defined( 'WPINC' ) ) {

@@ -1,5 +1,5 @@
 === bdwebteam recent post tabs widget ===
-Contributors: Md. Mahabub Hasan Manik 
+Contributors: Mahabub Hasan
 Tags: reviews poat, popular poosts,advanced recent post tabs ,recent posts,blog posts, posts tags, advanced recent posts tabs widget, category, post-plugins, posts, recent, recent posts widget,tabs, widget
 Requires at least: 1.0.1
 Tested up to: 4.2.2
@@ -7,11 +7,10 @@ Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-
  bdwebteam recent post tabs widget that shows the post
  tabs of your site with excerpt limit.
 
-== Description ==
+= Description =
 
     bdwebteam recent post tabs widget is advanced version of the WordPress Recent Responsive most popular posts, recent posts,top reviews, tabs Posts  widget allowing increased customization to display recent posts from category,Order by,time limit you define.
          
@@ -30,41 +29,41 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
     * You can run as many instances of the widget that you want to!     
 
          
-      Easy to configure CSS 
-           
-      * [You can check demo on following pages](http://plugin.bdwebteam.com/bdwebteam-recent-post-tabs-widget/)
-     
-    *Credits*
-
-         Author: Md.Mahabub Hasan Manik
-     Author URI: http://bdwebteam.com
-    Support Email: m.manik01@gmail.com
-        
-  **Recommended WordPress Plugins**
-
-   * [Service Boxes Widgets Text Icon](https://wordpress.org/plugins/service-boxes-widgets-text-icon/)
-   * [Service Boxes Widgets Text Icon](https://wordpress.org/plugins/responsive-posts-widget/)
-
-== Installation ==
-
-    Install and Activate 
+    Easy to configure CSS 
     
-    1. Unzip the downloaded `bdwebteam-recent-post-tabs-widget` zip file
-    2. Upload the `responsive-posts-widget` folder and its contents into the `wp-content/plugins/` directory of your WordPress installation
-    3. Activate responsive-posts-widget from Plugins page
-
+    * [You can check demo on following pages](http://plugin.bdwebteam.com/bdwebteam-recent-post-tabs-widget/)
+    
+    *Credits*
+    
+    Author: Md.Mahabub Hasan Manik
+    Author URI: http://bdwebteam.com
+    Support Email: m.manik01@gmail.com
+    
+    *Recommended WordPress Plugins*
+    
+        * [Service Boxes Widgets Text Icon](https://wordpress.org/plugins/service-boxes-widgets-text-icon/)
+        * [Service Boxes Widgets Text Icon](https://wordpress.org/plugins/responsive-posts-widget/)
+        
+    = Installation =
+    
+    Install and Activate 
+        
+        1. Unzip the downloaded `bdwebteam-recent-post-tabs-widget` zip file
+        2. Upload the `responsive-posts-widget` folder and its contents into the `wp-content/plugins/` directory of your WordPress installation
+        3. Activate responsive-posts-widget from Plugins page
+    
     Implement
-
-    1. Go to the wp admin Widget page.
-    2. Drag and drop "bdwebteam - Recent Post Tabs" into active sidebar.
-
-== Frequently Asked Questions ==
-
+    
+        1. Go to the wp admin Widget page.
+        2. Drag and drop "bdwebteam - Recent Post Tabs" into active sidebar.
+    
+    = Frequently Asked Questions =
+    
     Q : How can I add a list of posts widget to my sidebar? A : Go to the Appearance -> Widgets -> Choose a "bdwebteam - Recent Post Tabs" and drag it to the sidebar where you wish it to appear.
     
-       * [You can check demo on following pages](http://plugin.bdwebteam.com/bdwebteam-recent-post-tabs-widget/)
-      
-== Screenshots ==
-
-1. Admin interface .
-2. Post Tabs display.
+        * [You can check demo on following pages](http://plugin.bdwebteam.com/bdwebteam-recent-post-tabs-widget/)
+    
+    == Screenshots ==
+        
+        1. Admin interface .
+        2. Post Tabs display.

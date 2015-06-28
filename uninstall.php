@@ -2,7 +2,7 @@
 /**
    *
    * @package   bdwebteam-recent-post-tabs-widget
-   * @author    Md. Mahabub Masan Manik <m.manik01@gmail.com>
+   * @author    Mahabub Masan
    * @license   MIT License
    * @link      http://plugin.bdwebteam.com/bdwebteam-recent-post-tabs-widget
    * @copyright 2015 Mahabub Hasan

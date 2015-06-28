@@ -39,7 +39,8 @@ Support Email: m.manik01@gmail.com
 Recommended WordPress Plugins
 
 * [Service Boxes Widgets Text Icon](https://wordpress.org/plugins/service-boxes-widgets-text-icon/)
-* [Service Boxes Widgets Text Icon](https://wordpress.org/plugins/responsive-posts-widget/)
+* [Responsive Posts Widget](https://wordpress.org/plugins/responsive-posts-widget/)
+
 
 == Installation ==
 

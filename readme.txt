@@ -32,9 +32,8 @@ Easy to configure CSS
 
 Credits
 
-Author: Mahabub Hasan
-Author URI: http://bdwebteam.com
-Support Email: m.manik01@gmail.com
+* Author URI: http://bdwebteam.com
+* Support Email: m.manik01@gmail.com
 
 Recommended WordPress Plugins
 
@@ -57,8 +56,7 @@ Install and Activate
 
 == Frequently Asked Questions ==
 
-Q : How can I add a list of posts widget to my sidebar? A : 
-Go to the Appearance -> Widgets -> Choose a "bdwebteam - Recent Post Tabs" and drag it to the sidebar where you wish it to appear.
+Q : How can I add a list of posts widget to my sidebar? A :  Go to the Appearance -> Widgets -> Choose a "bdwebteam - Recent Post Tabs" and drag it to the sidebar where you wish it to appear.
 
 * [You can check demo on following pages](http://plugin.bdwebteam.com/bdwebteam-recent-post-tabs-widget/)
 

@@ -12,11 +12,9 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
    == Description ==
 
     bdwebteam recent post tabs widget is advanced version of the WordPress Recent Responsive most popular posts, recent posts,top reviews, tabs Posts  widget allowing increased customization to display recent posts from category,Order by,time limit you define.
-         
     If you set to display title, than you will be able to define how many characters to print.
     If you set to display featured image, than you will be able to define image width and height in px.    
     If you set to display excerpt, than you will be able to define how many characters to print 
-      
     * You can create titles & content limit
     * You can set how many posts you wish to display  
     * You can select any category .  
@@ -26,8 +24,6 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
     * You can choose from predefined image sizes, or set custom width and height
     * You can choose to define the featured image
     * You can run as many instances of the widget that you want to!     
-
-         
     Easy to configure CSS 
     
     * [You can check demo on following pages](http://plugin.bdwebteam.com/bdwebteam-recent-post-tabs-widget/)

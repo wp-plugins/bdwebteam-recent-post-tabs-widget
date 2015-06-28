@@ -7,10 +7,9 @@ Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
- bdwebteam recent post tabs widget that shows the post
- tabs of your site with excerpt limit.
+ bdwebteam recent post tabs widget that shows the post tabs of your site with excerpt limit.
 
-= Description =
+   = Description =
 
     bdwebteam recent post tabs widget is advanced version of the WordPress Recent Responsive most popular posts, recent posts,top reviews, tabs Posts  widget allowing increased customization to display recent posts from category,Order by,time limit you define.
          
@@ -59,7 +58,8 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
     
     = Frequently Asked Questions =
     
-    Q : How can I add a list of posts widget to my sidebar? A : Go to the Appearance -> Widgets -> Choose a "bdwebteam - Recent Post Tabs" and drag it to the sidebar where you wish it to appear.
+    Q : How can I add a list of posts widget to my sidebar? A : 
+       Go to the Appearance -> Widgets -> Choose a "bdwebteam - Recent Post Tabs" and drag it to the sidebar where you wish it to appear.
     
         * [You can check demo on following pages](http://plugin.bdwebteam.com/bdwebteam-recent-post-tabs-widget/)
     
